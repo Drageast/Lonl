@@ -1,0 +1,18 @@
+# This is a comment
+Variable1<int> = 19;
+
+Variable2<str> = "Hello, world!";
+
+Variable3<bool> = True;
+
+Variable4<float> = 3.999;
+
+Variable5<env> = test_env;
+
+Variable6<json> = {"Hello": "World!", "1": "26"};
+
+Variable7<file> = files/test_txt.txt;
+
+Variable8<file<json>> = files/test_json.json;
+
+Variable9<list<str>> = ["Hello", "World!", "Test123"];
